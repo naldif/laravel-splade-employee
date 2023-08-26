@@ -5,6 +5,6 @@
         <x-splade-input name="first_name" label="First Name" />
         <x-splade-input name="last_name" label="Last Name" />
         <x-splade-input name="email" label="Email Address" />
-        <x-splade-submit />
+        <x-splade-submit/>
     </x-splade-form>
 </x-admin-layout>
